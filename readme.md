@@ -1,11 +1,19 @@
-<img align="right" width="500" height="400"
-src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1">
-
-
 <h1>Welcome!</h1>
-<p>I'm Leo! Let me present a little about myself :smile:</p>
-<p>Full-Stack focused in Laravel and React | Software engineer :robot:</p>
-<p>Lover of technology and coding :heart:</p>
+
+<div style="background-color: red;">
+  <img 
+    src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1"
+    width="350"
+    align="right"
+  />
+
+  <p>I'm Leo! Let me present a little about myself 😄</p>
+  <p>Full-Stack focused in Laravel and React | Software engineer 🤖</p>
+  <p>I have started coding in 2018 and never stoped since ⌨️</p>
+  <p>Linux enthusiast 🐧</p>
+  <p>Gamer 🎮</p>
+  <p>Lover of technology and coding ❤️</p>
+</div>
 
 <h2>About me</h2>
 <p>I'm currently living in small city in Brazil and bellow there are some ways to contact me</p>
@@ -47,6 +55,7 @@ Email</br>
   <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'/>
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
 </p>
 - Thanks for visiting.
 - Enjoy it!! o/
