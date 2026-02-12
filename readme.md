@@ -1,11 +1,10 @@
 <h1>Welcome!</h1>
 
 <div>
-  <img 
-    src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1"
-    width="350"
-    align="right"
-  />
+
+<img align=right width=400px height=250px src='https://github.com/user-attachments/assets/271563b5-7f61-404c-8685-741f237e0a9b'/>
+  
+
 
   <p>I'm Leo! Let me present a little about myself 😄</p>
   <p>Full-Stack focused in Laravel and React | Software engineer 🤖</p>
